@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diego Quintanilla</h1>
+<h1 align="center">Hola 👋, Soy Diego Quintanilla</h1>
 <h3 align="center">Soy estudiante de Ingeniería en Computación con gusto por las bases de datos y el desarrollo web full-stack. Me apasiona la tecnología y tengo una fuerte disposición para seguir aprendiendo y desarrollándome profesionalmente. Me caracterizo por mi capacidad para resolver problemas, mi atención al detalle y mi compromiso con el trabajo en equipo.</h3>
 
 - 🌱 Actualmente estoy interesado en: 
 <br>
-<a target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 
@@ -17,6 +17,7 @@
 
 <h1 align="left">Skills</h1>
 <h3 align="left">Lenguajes</h3>
+<p align="left">
 <a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -27,7 +28,6 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<p align="left">
 </p>
 <h3 align="left">Frameworks y librerias</h3>
 <p align="left">

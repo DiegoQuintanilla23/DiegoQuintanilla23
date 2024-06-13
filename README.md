@@ -17,7 +17,7 @@
 
 <h1 align="left">Skills</h1>
 <h3 align="left">Lenguajes</h3>
-<a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -76,11 +76,16 @@
 <a target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a target="_blank"><img src=""></a>
 </p>
 
 <h1 align="left">Badges</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegoquintanilla23&label=Profile%20views&color=0e75b6&style=flat" alt="diegoquintanilla23" /> </p>
 
-
 <img src="https://myreadme.vercel.app/api/embed/diegoquintanilla23?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<h3 align="left">🧩</h3>
+<p align="left">
+<a target="_blank"><img src="https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"></a>
+<a href="https://www.last.fm/user/Skiiddoo23" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"></a>
+</p>

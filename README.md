@@ -14,7 +14,10 @@
 <a href="https://www.linkedin.com/in/diego-quintanilla-324383313" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/23skiidoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <br>
-<p>📫 Correo: <strong>diego.quintanilla1@hotmail.com</strong></p>
+<div style="border: 2px solid red; padding: 5px; border-radius:10px;">
+<h3>💼 <a href="https://balanced-hardcover-f7d.notion.site/Portafolio-ce981863a11d4be4bddf503de8abd86a?pvs=4">Portafolio</a></h3>
+<h3>📫 <strong>diego.quintanilla1@hotmail.com</strong></h3>
+</div>
 </p>
 
 <h1 align="left">Skills</h1>
